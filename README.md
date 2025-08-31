@@ -19,7 +19,7 @@ Finally, extra add-ons could be created, such as a countdown timer and a 1-playe
 # How to Operate the Game (currently accessible via University of Toronto FPGA Labs)
 To operate our game, please follow the below steps:
 1. Compile the game in your desired software environment
-2. Click push buttons 0 and 1 on the DE1-S0C display, corresponding to Players 1 & 2
+2. Click push buttons 0 and 1 on the DE1-SoC display, corresponding to Players 1 & 2
 indicating they are “ready to start”
 3. Once both buttons are clicked, start playing!
    
